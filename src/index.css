@@ -17,3 +17,10 @@ code {
   margin-top: 1rem;
     
 }
+
+#chrome{
+  background-color: red;
+}
+#firefox{
+  background-color: yellow;
+}
